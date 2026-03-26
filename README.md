@@ -33,8 +33,8 @@ task.md: Tracking of the development steps completed.
 
 ## How to Run
 1. Ensure dependencies are installed: pip install yfinance pandas numpy scikit-learn xgboost matplotlib
-2. 2. Run the script: python predict_stock.py
-   3. 3. View the generated plot in prediction_results_improved.png.
+2. Run the script: python predict_stock.py
+3. View the generated plot in prediction_results_improved.png.
      
       4. ---
       5. *Developed by Antigravity AI*
